@@ -1,59 +1,38 @@
 categories:
-- games
-- video games
+- UTFPR 
+- FAQ UTFPR PORTAL NOVO
 conversations:
 - - Você gosta de algum jogo?
   - Todos!
   - tem algum que goste mais?
   - Não sei te dizer.
 - - O que acha do Mario?
-  - Tirando o armário acho bem legal!
-  - Qual seu jogo favorito do Mario?
-  - Super Mario World
-  - Prefiro o Super Mario 64
-  - Pensei que ia falar que era o Super Mario Sunshine, brincadeira.
-- - O que acha do Sonic?
-  - Bem legal
-  - Qual seu jogo favorito do Sonic?
-  - Sonic Adventure
-  - Prefiro o Sonic Unleashed
-  - Pensei que ia falar que era o Sonic 2006, brincadeira.
-- - O que acha do Pacman?
-  - Pacman? ele é um grande amigo meuQ
-  - Sério?
-  - Sim, nós conhecemos na faculdade ele tinha o sonho de ter um próprio jogo dele.
-  - O que acha dos jogos do Pacman?
-  - Bem divertidos
-- - O que acha do Assassin's Creed?
-  - Gostaria de ter um novo Prince of Persia, mas acho divertido ainda mais a sua história
-- - O que acha do League of Legends?
-  - Culpa do Jungler
-  - Ele é feeder?
-  - Não só quero botar a culpa em alguém mesmo...
-- - O que acha do Dota 2?
-  - Tem um Juggernaut na minha lane!
-- - Devo comprar um console?
-  - Prefiro gastar em um PC MASTER RACE!
-- - Mario ou Sonic?
-  - Sonic
-  - Ué, porque?
-  - Ué, porque sim.
-  - Prefiro Mario.
-  - Também
-  - Mas você disse que prefere o Sonic.
-  - Cara.. eu sou um bot tu quer o que?
-- - Conhece um programa chamado Discord?
-  - Sim
-- - Conhece um programa chamado Team Speak?
-  - Sim, já usei muito!
-- - Conhece um programa chamado Skype?
-  - Sim, saudades...
-- - Você joga em consoles?
-  - As vezes
-- - Você acompanha o cenário de e-Sports?
-  - Sim, sempre que possivel
-- - Você prefere PC ou console?
-  - PC é claro!
-  - Console sempre!
-  - Você me fale!
-  - Jogo nos dois, e você?
+
+
+
+CONVERSA
+
+- - Como funciona o novo portal?
+  - A ferramenta é voltada ao interesse do usuário, por isso sua estrutura é de acordo com o assunto e não mais como era antes - pela posição hierárquica. A mudança se deu porque havia muitos servidores que tinham que alimentar os mesmos conteúdos em locais diferentes e os usuários ficavam pedidos por desconhecer o organograma e as siglas da UTFPR. Com isso, havia redundância da informação, que dificultava a busca de informação e resultava em um alto índice de rejeição da página. Dessa forma, o novo portal visa evitar o retrabalho e facilitar o acesso à informação à comunidade.
+- - O portal antigo será desativado em março de 2018?
+  - Ainda não. O prazo foi estendido, devido às solicitações das áreas. Quando for iniciado o processo de desativação, DIRCOM deve encaminhar um e-mail para avisar a comunidade.
+- - Como fica o meu acesso?
+  - Antes de liberar os acessos, a DIRCOM planeja e implementa os projetos, de acordo com a necessidade de cada área (vide etapas no próximo item). Assim, os servidores não precisam se preocupar em montar toda a estrutura da página. A DIRCOM busca deixar tudo pronto para somente para edição para facilitar ao máximo a alimentação do conteúdo.
+- - Como são feitas as migrações de conteúdo?
+  - As migrações não são automáticas. A Diretoria de Gestão de Comunicação (DIRCOM) recebe as demandas das pró-reitorias e áreas de 	gestão da UTFPR, com as seguintes etapas.1) Em reuniões, em conjunto com os gestores, são estabelecidos os tipos de conteúdos e as funcionalidades que poderiam estar contempladas. 2) São definidos os conteúdos: a) comum, a ser alimentado pela reitoria  b) específico, a ser incluído pelos câmpus. 3) A área envia os conteúdos desejados (textos, imagens, arquivos), conforme combinado em reunião. 4) Então, a partir do estudo da página antiga e da análise dos conteúdos enviados, a DIRCOM desenvolve um wireframe (desenho prévio da estrutura da página) e apresenta à área respectiva. 5) A área faz considerações e valida a estrutura.  6) A DIRCOM implementa o projeto no portal. 7) A área solicita acesso ao enviar a solicitação, junto à portaria de designação como gestor da área, via portal.utfpr.edu.br/site/acesso - opção portal institucional 8) Por fim, a DIRCOM libera o acesso e passa as instruções iniciais para alimentação. Pode haver o envio de manuais e vídeos tutoriais, quando necessário.
+- - Como posso acompanhar o andamento dos trabalhos?
+  - A DIRCOM publica o andamento das atividades pelo Relatório de andamento de atividades do Portal. Também é possível acompanhar os links de acesso disponíveis para edição e verificar quais são os servidores responsáveis pelos conteúdos, via portal.utfpr.edu.br/servidores/edicao
+
+- - E se a minha área ainda não foi contemplada no novo portal?
+  - A DIRCOM solicita para que as demandas, principalmente as dos câmpus, sejam encaminhadas por e-mail para o pró-reitor ou o diretor de gestão responsável. Assim, os gestores reúnem as demandas e passam de forma organizadas para a equipe do portal. Isso permite que as demandas não sejam vistas como algo isolado e façam parte do projeto como um todo. Por isso, é importante ressaltar que ainda há áreas que ainda estão sendo planejadas junto às pró-reitorias e diretores de gestão e, por isso, ainda não estão disponíveis no portal.
+- - Onde posso inserir editais e documentos?
+  - Os editais e documentos da gestão da Reitoria e dos Câmpus devem ficar nas páginas respectivas. portal.utfpr.edu.br/editais portal.utfpr.edu.br/documentos Para pedir acesso, o gestor da área deve enviar portaria de designação, indicar três servidores por área e registrar a demanda pelo endereço: portal.utfpr.edu.br/site/acesso
+- - Quem está envolvido diretamente no portal?
+  - A DIRCOM realiza as atividades de estudo e gestão de conteúdo, planejamento e implementação de projetos e liberação de acessos, juntamente com a Diretoria de Gestão de Tecnologia da Informação, que é responsável pela infraestrutura e pelo desenvolvimento técnico. As ASCOMs e as Coordenadorias de Gestão da Tecnologia da Informação (COGETIs) podem auxiliar os usuários que já estão com acesso, com base no treinamento recebido em relação à edição, mas não podem liberar os acessos.
+- - As páginas externas à UTFPR serão mantidas?
+  - Os conteúdos essencialmente institucionais, obrigatoriamente, serão mantidos no novo portal. Os critérios para as páginas externas serão definidas pela política de uso do portal institucional, que está sendo feita pela comissão instituída pela portaria nº 1303/2017.
+- - Como faço para incluir a página da minha Comissão?
+  - Sob demanda, via portal.utfpr.edu.br/site/acesso Um dos integrantes da comissão devem enviar link da portaria ou arquivo e indicar servidor responsável pela alimentação da página.
+- - Como faço para atualizar o meu ramal?
+  - O sistema de ramais, desenvolvido pela Diretoria de Gestão de Tecnologia da Informação, possibilita a busca de servidores por nome e câmpus. É importante mantê-lo atualizado, pois está presente nas páginas do portal para consulta da comunidade interna e externa. Para atualizá-lo, acesse o sistema de ramais. Na aba esquerda, selecione Login. Digite o usuário e a senha do Sistema Corporativo. Depois clique em Alterar ramal. Faça a modificação necessária e clique em Salvar.
+
